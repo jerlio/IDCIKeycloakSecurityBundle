@@ -1,5 +1,5 @@
 {
-    "name": "idci/keycloak-security-bundle",
+    "name": "jerlio/keycloak-security-bundle",
     "type": "symfony-bundle",
     "description": "Allows you to easily handle you application security thanks to keycloak.",
     "license": "CECILL-C",
